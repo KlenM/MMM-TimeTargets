@@ -1,0 +1,26 @@
+#time-targets {
+  position: relative;
+  color: #bbb;
+}
+
+#time-targets .title{
+  padding: 0.2em 0 0 0.4em;
+}
+
+#time-targets .time-bar {
+  background-color: #999;
+  height: 5px;
+}
+
+#time-targets .done {
+  opacity: 0.3;
+}
+
+#time-targets .target-line {
+  border-right: 1px solid white;
+  position: absolute;
+  top: 0.25em;
+  left: 0;
+  height: 100%;
+  opacity: 0.3;
+}

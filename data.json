@@ -1,0 +1,22 @@
+{
+  "Business": {
+    "target": 8,
+    "current": 6
+  },
+  "Science": {
+    "target": 20,
+    "current": 12
+  },
+  "Money": {
+    "target": 20,
+    "current": 8
+  },
+  "English": {
+    "target": 10,
+    "current": 8
+  },
+  "Reading": {
+    "target": 10,
+    "current": 12
+  }
+}
