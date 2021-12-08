@@ -37,7 +37,7 @@ Module.register("MMM-TimeTargets", {
       let item = document.createElement("div");
   
       let title = document.createElement("div");
-      title.className = "title xsmall bold"
+      title.className = "title small bold"
       title.innerText = key;
   
       let bar = document.createElement("div");
